@@ -45,6 +45,8 @@ sudo brew install fritzing (mac OS) <br/>
 1. MQTT 
 2. MQTT Broker (<a href="https://mosquitto.org">Mosquitto Broker</a>)
 
+<img src="MQTT_1.png" />
+
 # Contact
 Madhu Parvathaneni <br/>
 mad@madblocks.tech <br/>
