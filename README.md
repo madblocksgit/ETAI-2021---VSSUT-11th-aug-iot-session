@@ -1,4 +1,4 @@
-# nit-w-11th-aug-iot-session
+# ETAI-2021---VSSUT-11th-aug-iot-session
 Official Repo of my session in a 1-week national level  ATAL Faculty Development Programme ETAI 2021 - VSSUT 
 
 # About Speaker
@@ -24,3 +24,17 @@ Official Repo of my session in a 1-week national level  ATAL Faculty Development
 3. Training a KNN Classification Model on Dataset
 4. Sending SNS Notification
 
+# Hardware
+1. Arduino Uno with USB Cable
+2. DHT11 Sensor
+3. Relay with Bulb 
+4. Raspberry Pi or Linux Desktop
+
+# Software
+1. Arduino Software (<a href="https://arduino.cc">Download Here</a>)
+2. Fritzing Software for Schematic Design(<a href="https://onedrive.live.com/?authkey=%21AJ4yupk5PGV2vs0&cid=56559D033B70DDA3&id=56559D033B70DDA3%21929397&parId=56559D033B70DDA3%211006996&action=locate">Download Here</a>)
+3. AWS (<a href="https://aws.amazon.com/free">AWS Amazon Free Tier</a>)
+
+# Protocols
+1. MQTT 
+2. MQTT Broker (<a href="https://mosquitto.org">Mosquitto Broker</a>)
