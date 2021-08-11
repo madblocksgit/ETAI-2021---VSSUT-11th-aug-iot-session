@@ -41,6 +41,14 @@ Official Repo of my session in a 1-week national level  ATAL Faculty Development
 sudo apt-get install fritzing  (Linux) <br/>
 sudo brew install fritzing (mac OS) <br/>
 
+# Process to be done on AWS
+
+1. sudo apt-get update 
+2. sudo apt-get upgrade -y
+3. sudo apt-get install mosquitto -y
+4. sudo apt-get install mongodb -y
+
+
 # Protocols
 1. MQTT 
 2. MQTT Broker (<a href="https://mosquitto.org">Mosquitto Broker</a>)
