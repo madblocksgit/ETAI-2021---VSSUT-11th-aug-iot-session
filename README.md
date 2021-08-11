@@ -53,6 +53,9 @@ sudo brew install fritzing (mac OS) <br/>
 4. sudo apt-get install mongodb -y
 5. sudo apt-get install python3-pip -y
 6. sudo pip3 install paho-mqtt
+7. sudo pip3 install pymongo
+8. sudo pip3 install pandas
+9. sudo pip3 install sklearn
 
 
 # Protocols
