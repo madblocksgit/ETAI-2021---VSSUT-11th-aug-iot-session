@@ -8,6 +8,10 @@ Official Repo of my session in a 1-week national level  ATAL Faculty Development
 # Schematics
 <b>Arduino Relay </b> <br/> <br/>
 <img src="arduino-relay.png" height="500" width="1000"/>
+<Br/><br/>
+<b>DHT11 with Arduino </b><br/><Br/>
+<img src="dht11-arduino.png" height="500" width="1000"/>
+
 # Session - 2
 
 <b>AWS IoT </b>
