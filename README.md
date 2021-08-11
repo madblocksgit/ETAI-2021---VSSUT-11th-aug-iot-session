@@ -35,6 +35,9 @@ Official Repo of my session in a 1-week national level  ATAL Faculty Development
 2. Fritzing Software for Schematic Design(<a href="https://onedrive.live.com/?authkey=%21AJ4yupk5PGV2vs0&cid=56559D033B70DDA3&id=56559D033B70DDA3%21929397&parId=56559D033B70DDA3%211006996&action=locate">Download Here</a>)
 3. AWS (<a href="https://aws.amazon.com/free">AWS Amazon Free Tier</a>)
 
+sudo apt-get install fritzing  (Linux) <br/>
+sudo brew install fritzing (mac OS) <br/>
+
 # Protocols
 1. MQTT 
 2. MQTT Broker (<a href="https://mosquitto.org">Mosquitto Broker</a>)
